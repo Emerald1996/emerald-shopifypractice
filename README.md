@@ -1,3 +1,3 @@
 # emerald-shopifypractice
 
-These theme is for practice purpose only
+This shopify-theme is for practice purpose only
