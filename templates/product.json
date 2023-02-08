@@ -205,18 +205,12 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "pagefly-product-section": {
-      "type": "pagefly-product-section",
-      "settings": {
-      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "multicolumn",
-    "product-recommendations",
-    "pagefly-product-section"
+    "product-recommendations"
   ]
 }
