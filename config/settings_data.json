@@ -147,7 +147,7 @@
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/timberlogo-removebg-preview.png",
           "logo_width": 70,
-          "logo_position": "top-center",
+          "logo_position": "middle-center",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
