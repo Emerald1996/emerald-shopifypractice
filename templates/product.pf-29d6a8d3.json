@@ -205,12 +205,18 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "pf-29d6a8d3": {
+      "type": "pf-29d6a8d3",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "multicolumn",
-    "product-recommendations"
+    "product-recommendations",
+    "pf-29d6a8d3"
   ]
 }
