@@ -2,6 +2,7 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -53,6 +54,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<p>Talk about your brand<\/p>",
             "heading_size": "h1"
@@ -60,6 +62,7 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
@@ -110,12 +113,14 @@
       "blocks": {
         "collection-0": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": ""
           }
         },
         "product": {
           "type": "product",
+          "disabled": true,
           "settings": {
             "product": "",
             "second_image": false
@@ -123,6 +128,7 @@
         },
         "collection-1": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": ""
           }
@@ -159,6 +165,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
