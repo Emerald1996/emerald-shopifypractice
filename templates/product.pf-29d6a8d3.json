@@ -102,5 +102,6 @@
     "main",
     "product-recommendations",
     "pf-29d6a8d3"
-  ]
+  ],
+  "layout": "theme.pagefly"
 }
